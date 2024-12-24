@@ -4,5 +4,4 @@ function isOdd(myNumber)
 }
 
 // Your code below:
-let esImpar = isOdd(45345);
-console.log(esImpar);
+isOdd()
